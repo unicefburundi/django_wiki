@@ -1,0 +1,5 @@
+wiki==0.0.23
+Pillow==2.3.1
+Django==1.6.11
+django-filer==0.9.5
+

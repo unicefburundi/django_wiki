@@ -1,0 +1,6 @@
+*.sw*
+*.pyc
+localsettings.py
+*.~
+*.py~
+.gitignore~
